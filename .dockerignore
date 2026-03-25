@@ -1,0 +1,11 @@
+node_modules
+dist
+.git
+.gitignore
+.replit
+replit.nix
+.config
+.cache
+custom-electric-usa.zip
+Dockerfile
+.dockerignore
